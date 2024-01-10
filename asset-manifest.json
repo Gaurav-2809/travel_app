@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/travel_app/static/css/main.5a3b8b9a.css",
+    "main.js": "/travel_app/static/js/main.7801e8e7.js",
+    "static/js/787.496b646a.chunk.js": "/travel_app/static/js/787.496b646a.chunk.js",
+    "static/media/Dongle-Bold.ttf": "/travel_app/static/media/Dongle-Bold.ca81ffffadb172fdde96.ttf",
+    "static/media/Dongle-Regular.ttf": "/travel_app/static/media/Dongle-Regular.9dbc75e83a6ef77939a3.ttf",
+    "static/media/Dongle-Light.ttf": "/travel_app/static/media/Dongle-Light.c98bcd60fa38d0abf2a7.ttf",
+    "static/media/team-member-1.jpg": "/travel_app/static/media/team-member-1.091fd0079868b36abece.jpg",
+    "static/media/team-member-3.jpg": "/travel_app/static/media/team-member-3.939ea7c21e0c0859a55e.jpg",
+    "static/media/destination-3.jpg": "/travel_app/static/media/destination-3.c120406610fd5b868cfc.jpg",
+    "static/media/hotel-1.jpg": "/travel_app/static/media/hotel-1.a6660bea7fff8fc6d131.jpg",
+    "static/media/activity-2.jpg": "/travel_app/static/media/activity-2.770c5a00c9249f81562b.jpg",
+    "static/media/destination-1.jpg": "/travel_app/static/media/destination-1.7394e58efe45df93e23c.jpg",
+    "static/media/hotel-3.jpg": "/travel_app/static/media/hotel-3.640d03920e93a2c04baa.jpg",
+    "static/media/destination-2.jpg": "/travel_app/static/media/destination-2.ccacb6892090a1f1a778.jpg",
+    "static/media/activity-1.jpg": "/travel_app/static/media/activity-1.b8b53eabfa8979a2cfcb.jpg",
+    "static/media/activity-3.jpg": "/travel_app/static/media/activity-3.eeaa99e08f670143ae90.jpg",
+    "static/media/team-member-2.jpg": "/travel_app/static/media/team-member-2.88d84e95d36f5605aab6.jpg",
+    "static/media/hero.jpg": "/travel_app/static/media/hero.3c28abf4ae6036da7682.jpg",
+    "static/media/hotel-2.jpg": "/travel_app/static/media/hotel-2.db6ac7de30b5c9c30d89.jpg",
+    "static/media/logo.jpg": "/travel_app/static/media/logo.038043237c883adb8f8a.jpg",
+    "index.html": "/travel_app/index.html",
+    "main.5a3b8b9a.css.map": "/travel_app/static/css/main.5a3b8b9a.css.map",
+    "main.7801e8e7.js.map": "/travel_app/static/js/main.7801e8e7.js.map",
+    "787.496b646a.chunk.js.map": "/travel_app/static/js/787.496b646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a3b8b9a.css",
+    "static/js/main.7801e8e7.js"
+  ]
+}
